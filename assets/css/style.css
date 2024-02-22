@@ -17,6 +17,7 @@
     animation-name: squareanim;
     animation-duration: 10s;
     position: absolute;
+    animation-iteration-count: infinite;
 }
 
 @keyframes squareanim {
